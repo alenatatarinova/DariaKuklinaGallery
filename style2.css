@@ -1,0 +1,162 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+@font-face {
+    font-family: Acherus Feral;
+    src: url(fonts/Horizon\ Type\ -\ AcherusFeral-Light.otf);
+}
+
+@font-face {
+    font-family: Alcotton;
+    src: url(fonts/alcotton.ttf);
+}
+
+.container1 {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.logo {
+    position: absolute;
+    margin-top: 48px;
+    margin-left: 612px;
+}
+
+.menu1 {
+    position: absolute;
+    margin-top: 281px;
+    margin-left: 575px;
+    font-family: 'Acherus Feral', 'sans-serif';
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+}
+
+.inst {
+    position: absolute;
+    margin-top: 275px;
+    margin-left: 697px;
+}
+
+.menu2 {
+    position: absolute;
+    margin-top: 281px;
+    margin-left: 788px;
+    font-family: 'Acherus Feral', 'sans-serif';
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+}
+
+.container2 {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.title1 {
+    position: absolute;
+    margin-top: 380px;
+    margin-left: 287px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 32px;
+}
+
+.text1 {
+    position: absolute;
+    margin-top: 467px;
+    margin-left: 287px;
+    font-family: 'Acherus Feral', 'sans-serif';
+    font-size: 18px;
+}
+
+.text2 {
+    position: absolute;
+    margin-top: 616px;
+    margin-left: 287px;
+    font-family: 'Acherus Feral', 'sans-serif';
+    font-size: 18px;
+}
+
+.title2 {
+    position: absolute;
+    margin-top: 847px;
+    margin-left: 287px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 32px;
+}
+
+.img1 {
+    position: absolute;
+    margin-top: 934px;
+    margin-left: 287px;
+}
+
+.name1 {
+    position: absolute;
+    margin-top: 1572px;
+    margin-left: 532px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    border-bottom: 0.5px solid;
+}
+
+.date1 {
+    position: absolute;
+    margin-top: 1605px;
+    margin-left: 680px;
+    font-family: 'Acherus Feral', 'sans-serif';
+    font-size: 16px;
+}
+
+.text3 {
+    position: absolute;
+    margin-top: 1669px;
+    margin-left: 287px;
+    font-family: 'Acherus Feral', 'sans-serif';
+    font-size: 18px;
+}
+
+.title3 {
+    position: absolute;
+    margin-top: 2050px;
+    margin-left: 287px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 32px;
+}
+
+.img2 {
+    position: absolute;
+    margin-top: 2137px;
+    margin-left: 287px;
+}
+
+.name2 {
+    position: absolute;
+    margin-top: 2775px;
+    margin-left: 513px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    border-bottom: 0.5px solid;
+}
+
+.date2 {
+    position: absolute;
+    margin-top: 2808px;
+    margin-left: 681px;
+    font-family: 'Acherus Feral', 'sans-serif';
+    font-size: 16px;
+}
+
+.text4 {
+    position: absolute;
+    margin-top: 2872px;
+    margin-left: 287px;
+    font-family: 'Acherus Feral', 'sans-serif';
+    font-size: 18px;
+}
+
+.menu1:hover, .menu2:hover {
+    color: rgba(0, 0, 0, 0.632);
+}
