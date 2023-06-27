@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+@font-face {
+    font-family: Acherus Feral;
+    src: url(fonts/Horizon\ Type\ -\ AcherusFeral-Light.otf);
+}
+
+@font-face {
+    font-family: Alcotton;
+    src: url(fonts/alcotton.ttf);
+}
+
+.container1 {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.logo {
+    position: absolute;
+    margin-top: 48px;
+    margin-left: 612px;
+}
+
+.menu1 {
+    position: absolute;
+    margin-top: 281px;
+    margin-left: 575px;
+    font-family: 'Acherus Feral', 'sans-serif';
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+}
+
+.inst {
+    position: absolute;
+    margin-top: 275px;
+    margin-left: 697px;
+}
+
+.menu2 {
+    position: absolute;
+    margin-top: 281px;
+    margin-left: 788px;
+    font-family: 'Acherus Feral', 'sans-serif';
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+}
+
+.container2 {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.name {
+    position: absolute;
+    margin-top: 380px;
+    margin-left: 296px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 32px;
+}
+
+.arrow {
+    position: absolute;
+    margin-top: 758px;
+    margin-left: 227px;
+}
+
+.img {
+    position: absolute;
+    margin-top: 448px;
+    margin-left: 296px;
+}
+
+.info {
+    position: absolute;
+    margin-top: 1135px;
+    margin-left: 561px;
+    font-family: 'Acherus Feral', 'sans-serif';
+    font-size: 16px;
+}
+
+.description {
+    position: absolute;
+    margin-top: 1229px;
+    margin-left: 297px;
+    font-family: 'Acherus Feral', 'sans-serif';
+    font-size: 20px;
+}

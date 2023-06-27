@@ -1,0 +1,353 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+@font-face {
+    font-family: Acherus Feral;
+    src: url(fonts/Horizon\ Type\ -\ AcherusFeral-Light.otf);
+}
+
+@font-face {
+    font-family: Alcotton;
+    src: url(fonts/alcotton.ttf);
+}
+
+.container1 {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.logo {
+    position: absolute;
+    margin-top: 48px;
+    margin-left: 612px;
+}
+
+.menu1 {
+    position: absolute;
+    margin-top: 281px;
+    margin-left: 575px;
+    font-family: 'Acherus Feral', 'sans-serif';
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+}
+
+.inst {
+    position: absolute;
+    margin-top: 275px;
+    margin-left: 697px;
+}
+
+.menu2 {
+    position: absolute;
+    margin-top: 281px;
+    margin-left: 788px;
+    font-family: 'Acherus Feral', 'sans-serif';
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+}
+
+.container2 {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.img1 {
+    position: absolute;
+    margin-top: 380px;
+    margin-left: 93px;
+}
+
+.img2 {
+    position: absolute;
+    margin-top: 380px;
+    margin-left: 522px;
+}
+
+.img3 {
+    position: absolute;
+    margin-top: 380px;
+    margin-left: 953px;
+}
+
+.name1 {
+    position: absolute;
+    margin-top: 678px;
+    margin-left: 108px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    color: black;
+    text-decoration: underline 0.5px;
+}
+
+.name2 {
+    position: absolute;
+    margin-top: 678px;
+    margin-left: 608px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    color: black;
+    text-decoration: underline 0.5px;
+}
+
+.name3 {
+    position: absolute;
+    margin-top: 678px;
+    margin-left: 971px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    color: black;
+    text-decoration: underline 0.5px;
+    text-align: center;
+}
+
+.img4 {
+    position: absolute;
+    margin-top: 760px;
+    margin-left: 93px;
+}
+
+.img5 {
+    position: absolute;
+    margin-top: 760px;
+    margin-left: 522px;
+}
+
+.img6 {
+    position: absolute;
+    margin-top: 760px;
+    margin-left: 953px;
+}
+
+.name4 {
+    position: absolute;
+    margin-top: 1058px;
+    margin-left: 159px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    color: black;
+    text-decoration: underline 0.5px;
+    text-align: center;
+}
+
+.name5 {
+    position: absolute;
+    margin-top: 1058px;
+    margin-left: 661px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    color: black;
+    text-decoration: underline 0.5px;
+}
+
+.name6 {
+    position: absolute;
+    margin-top: 1058px;
+    margin-left: 989px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    color: black;
+    text-decoration: underline 0.5px;
+    text-align: center;
+}
+
+.img7 {
+    position: absolute;
+    margin-top: 1140px;
+    margin-left: 93px;
+}
+
+.img8 {
+    position: absolute;
+    margin-top: 1140px;
+    margin-left: 522px;
+}
+
+.img9 {
+    position: absolute;
+    margin-top: 1140px;
+    margin-left: 953px;
+}
+
+.name7 {
+    position: absolute;
+    margin-top: 1433px;
+    margin-left: 104px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    color: black;
+    text-decoration: underline 0.5px;
+    text-align: center;
+}
+
+.name8 {
+    position: absolute;
+    margin-top: 1433px;
+    margin-left: 578px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    color: black;
+    text-decoration: underline 0.5px;
+    text-align: center;
+}
+
+.name9 {
+    position: absolute;
+    margin-top: 1433px;
+    margin-left: 941px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    color: black;
+    text-decoration: underline 0.5px;
+    text-align: center;
+}
+
+.img10 {
+    position: absolute;
+    margin-top: 1520px;
+    margin-left: 93px;
+}
+
+.img11 {
+    position: absolute;
+    margin-top: 1520px;
+    margin-left: 522px;
+}
+
+.img12 {
+    position: absolute;
+    margin-top: 1520px;
+    margin-left: 953px;
+}
+
+.name10 {
+    position: absolute;
+    margin-top: 1813px;
+    margin-left: 151px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    color: black;
+    text-decoration: underline 0.5px;
+}
+
+.name11 {
+    position: absolute;
+    margin-top: 1813px;
+    margin-left: 522px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    color: black;
+    text-decoration: underline 0.5px;
+}
+
+.name12 {
+    position: absolute;
+    margin-top: 1813px;
+    margin-left: 959px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    color: black;
+    text-decoration: underline 0.5px;
+}
+
+.img13 {
+    position: absolute;
+    margin-top: 1900px;
+    margin-left: 93px;
+}
+
+.img14 {
+    position: absolute;
+    margin-top: 1900px;
+    margin-left: 522px;
+}
+
+.img15 {
+    position: absolute;
+    margin-top: 1900px;
+    margin-left: 953px;
+}
+
+.name13 {
+    position: absolute;
+    margin-top: 2193px;
+    margin-left: 137px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    color: black;
+    text-decoration: underline 0.5px;
+}
+
+.name14 {
+    position: absolute;
+    margin-top: 2193px;
+    margin-left: 542px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    color: black;
+    text-decoration: underline 0.5px;
+    text-align: center;
+}
+
+.name15 {
+    position: absolute;
+    margin-top: 2193px;
+    margin-left: 986px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    color: black;
+    text-decoration: underline 0.5px;
+    text-align: center;
+}
+
+.img16 {
+    position: absolute;
+    margin-top: 2280px;
+    margin-left: 93px;
+}
+
+.img17 {
+    position: absolute;
+    margin-top: 2280px;
+    margin-left: 522px;
+}
+
+.img18 {
+    position: absolute;
+    margin-top: 2280px;
+    margin-left: 953px;
+}
+
+.name16 {
+    position: absolute;
+    margin-top: 2573px;
+    margin-left: 108px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    color: black;
+    text-decoration: underline 0.5px;
+}
+
+.name17 {
+    position: absolute;
+    margin-top: 2573px;
+    margin-left: 650px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    color: black;
+    text-decoration: underline 0.5px;
+}
+
+.name18 {
+    position: absolute;
+    margin-top: 2573px;
+    margin-left: 999px;
+    font-family: 'Alcotton', 'sans-serif';
+    font-size: 20px;
+    color: black;
+    text-decoration: underline 0.5px;
+    text-align: center;
+}
